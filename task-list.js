@@ -1,4 +1,3 @@
-// task-list.js
 class TaskList extends HTMLElement {
   constructor() {
       super();
